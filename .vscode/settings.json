@@ -1,0 +1,10 @@
+{
+    "rest-client.decodeEscapedUnicodeCharacters": true,
+    "rest-client.disableHighlightResonseBodyForLargeResponse": true,
+    "rest-client.fontSize": 16,
+    "rest-client.largeResponseBodySizeLimitInMB": 10,
+    "rest-client.previewResponseInUntitledDocument": true,
+    "rest-client.requestNameAsResponseTabTitle": true,
+    "rest-client.showResponseInDifferentTab": true,
+    "rest-client.suppressResponseBodyContentTypeValidationWarning": true
+}
